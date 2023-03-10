@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "819829986656",
+    "project_id": "flutter-hanafuda-record",
+    "storage_bucket": "flutter-hanafuda-record.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819829986656:android:dc92f21a80c84ab40f7a05",
+        "android_client_info": {
+          "package_name": "com.example.hanafuda_record"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819829986656-ah09pbq5j09j7gams5lfitubq009onnq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hanafuda_record",
+            "certificate_hash": "2d6685a7731e1a3c40312b3d46721dd5b9b41192"
+          }
+        },
+        {
+          "client_id": "819829986656-t97srop97j6q3jvmvn7265pt8lcr2a95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFKGwzTeoCxZ3H4LG72Mbr4ITKrqtK1L0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819829986656-qjg3api6vuj3cq2ll21qlib9n1uarbv4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "819829986656-32ft3d1u23n7smn19iuplvu7rcrbgjc7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hanafudaRecord"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
